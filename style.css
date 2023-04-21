@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url("https://i.imgur.com/sY9A5Cl.jpeg");
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.title-span {
+  color:rgb(186, 5, 5);
+}
+
+.title {
+  text-align: center;
+  font-size: 50px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.info {
+  text-align: center;
+}
+
+.games-btn-child {
+  width: 120px;
+  /* Center horizontally*/
+  margin: auto;
+  margin-top: 145px;
+}
+
+.games-btn {
+  border: none;
+  color:rgb(229, 18, 18);
+  text-decoration: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: rgb(0, 0, 0);
+  font-weight: bolder;
+  border-radius: 30px;
+
+  margin-top: 10000px;
+}
+
