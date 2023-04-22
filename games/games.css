@@ -26,10 +26,12 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   padding: 4px;
   margin-right: 14px;
+  vertical-align: top;
 }
 
 .game-img {
   width: 150px;
+  height: 150px;
   display: block;
 }
 
@@ -39,6 +41,8 @@ body {
   margin-top: 7px;
   font-size: 18px;
   font-weight: bold;
+  width: 150px;
+  overflow: scroll;
 }
 
 .game-desc {
